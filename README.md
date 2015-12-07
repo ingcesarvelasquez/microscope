@@ -1,2 +1,2 @@
 # microscope
-Repositorio para seguir el libro http://es.discovermeteor.com/
+Repositorio creado para seguir el libro http://es.discovermeteor.com/
